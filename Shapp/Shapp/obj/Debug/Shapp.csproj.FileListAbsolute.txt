@@ -1,0 +1,9 @@
+E:\Xamarin_Ex\Shapp\Shapp\Shapp\bin\Debug\Shapp.dll
+E:\Xamarin_Ex\Shapp\Shapp\Shapp\bin\Debug\Shapp.pdb
+E:\Xamarin_Ex\Shapp\Shapp\Shapp\bin\Debug\Xamarin.Forms.Core.dll
+E:\Xamarin_Ex\Shapp\Shapp\Shapp\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\Xamarin_Ex\Shapp\Shapp\Shapp\bin\Debug\Xamarin.Forms.Core.xml
+E:\Xamarin_Ex\Shapp\Shapp\Shapp\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\Xamarin_Ex\Shapp\Shapp\Shapp\obj\Debug\Shapp.dll
+E:\Xamarin_Ex\Shapp\Shapp\Shapp\obj\Debug\Shapp.pdb
+E:\Xamarin_Ex\Shapp\Shapp\Shapp\obj\Debug\Shapp.csprojResolveAssemblyReference.cache
