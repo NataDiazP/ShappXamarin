@@ -11,5 +11,4 @@ E:\Xamarin_Ex\Shapp\Shapp\Shapp.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.xml
 E:\Xamarin_Ex\Shapp\Shapp\Shapp.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.xml
 E:\Xamarin_Ex\Shapp\Shapp\Shapp.iOS\obj\iPhone\Debug\FormsTemplateiOS.exe
 E:\Xamarin_Ex\Shapp\Shapp\Shapp.iOS\obj\iPhone\Debug\FormsTemplateiOS.pdb
-E:\Xamarin_Ex\Shapp\Shapp\Shapp.iOS\obj\iPhone\Debug\Images\logo.png
-E:\Xamarin_Ex\Shapp\Shapp\Shapp.iOS\obj\iPhone\Debug\Images\nombre.png
+E:\Xamarin_Ex\Shapp\Shapp\Shapp.iOS\obj\iPhone\Debug\

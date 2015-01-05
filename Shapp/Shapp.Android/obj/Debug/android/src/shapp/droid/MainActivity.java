@@ -2,7 +2,7 @@ package shapp.droid;
 
 
 public class MainActivity
-	extends android.app.Activity
+	extends xamarin.forms.platform.android.AndroidActivity
 	implements
 		mono.android.IGCUserPeer
 {

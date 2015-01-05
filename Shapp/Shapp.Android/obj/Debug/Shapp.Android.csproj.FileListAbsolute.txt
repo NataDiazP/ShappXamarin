@@ -21,7 +21,7 @@ E:\Xamarin_Ex\Shapp\Shapp\Shapp.Android\bin\Debug\com.xamarin.Shapp.apk
 E:\Xamarin_Ex\Shapp\Shapp\Shapp.Android\bin\Debug\com.xamarin.Shapp-Signed.apk
 E:\Xamarin_Ex\Shapp\Shapp\Shapp.Android\obj\Debug\android\bin\com.xamarin.Shapp.apk
 E:\Xamarin_Ex\Shapp\Shapp\Shapp.Android\bin\Debug\Shapp.dll.mdb
-E:\Xamarin_Ex\Shapp\Shapp\Shapp.Android\obj\Debug\res\layout\holi.xml
 E:\Xamarin_Ex\Shapp\Shapp\Shapp.Android\obj\Debug\res\drawable\regbutton.xml
 E:\Xamarin_Ex\Shapp\Shapp\Shapp.Android\obj\Debug\res\drawable\logfbbutton.xml
 E:\Xamarin_Ex\Shapp\Shapp\Shapp.Android\obj\Debug\res\drawable\loginbutton.xml
+E:\Xamarin_Ex\Shapp\Shapp\Shapp.Android\obj\Debug\res\layout\loginhome.xml

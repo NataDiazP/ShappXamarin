@@ -40,6 +40,14 @@ public class TimePickerRenderer
 	}
 
 
+	public TimePickerRenderer (android.content.Context p0, android.util.AttributeSet p1, int p2, int p3) throws java.lang.Throwable
+	{
+		super (p0, p1, p2, p3);
+		if (getClass () == TimePickerRenderer.class)
+			mono.android.TypeManager.Activate ("Xamarin.Forms.Platform.Android.TimePickerRenderer, Xamarin.Forms.Platform.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "Android.Content.Context, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=84e04ff9cfb79065:Android.Util.IAttributeSet, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=84e04ff9cfb79065:System.Int32, mscorlib, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e:System.Int32, mscorlib, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e", this, new java.lang.Object[] { p0, p1, p2, p3 });
+	}
+
+
 	public void onTimeSet (android.widget.TimePicker p0, int p1, int p2)
 	{
 		n_onTimeSet (p0, p1, p2);

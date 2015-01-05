@@ -1,5 +1,5 @@
-﻿<xapCache source="E:\Xamarin_Ex\Shapp\Shapp\Shapp.WinPhone\Bin\x86\Debug\PhoneApp1_Debug_x86.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="30/12/2014 4:02:43 p. m.">
-  <file source="E:\Xamarin_Ex\Shapp\Shapp\Shapp.WinPhone\obj\x86\Debug\Shapp.WinPhone.dll" archivePath="Shapp.WinPhone.dll" lastWriteTime="30/12/2014 4:02:39 p. m." />
+﻿<xapCache source="E:\Xamarin_Ex\Shapp\Shapp\Shapp.WinPhone\Bin\x86\Debug\PhoneApp1_Debug_x86.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="02/01/2015 3:44:38 p. m.">
+  <file source="E:\Xamarin_Ex\Shapp\Shapp\Shapp.WinPhone\obj\x86\Debug\Shapp.WinPhone.dll" archivePath="Shapp.WinPhone.dll" lastWriteTime="02/01/2015 3:44:31 p. m." />
   <file source="E:\Xamarin_Ex\Shapp\Shapp\Shapp.WinPhone\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="29/12/2014 5:30:36 p. m." />
   <file source="E:\Xamarin_Ex\Shapp\Shapp\Shapp.WinPhone\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="29/12/2014 5:30:36 p. m." />
   <file source="E:\Xamarin_Ex\Shapp\Shapp\Shapp.WinPhone\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="29/12/2014 5:30:36 p. m." />
@@ -17,7 +17,7 @@
   <file source="E:\Xamarin_Ex\Shapp\Shapp\Shapp.WinPhone\Bin\x86\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="29/12/2014 5:30:36 p. m." />
   <file source="E:\Xamarin_Ex\Shapp\Shapp\Shapp.WinPhone\Bin\x86\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="29/12/2014 5:30:36 p. m." />
   <file source="E:\Xamarin_Ex\Shapp\packages\WPtoolkit.4.2013.08.16\lib\wp8\Microsoft.Phone.Controls.Toolkit.dll" archivePath="Microsoft.Phone.Controls.Toolkit.dll" lastWriteTime="29/12/2014 5:30:54 p. m." />
-  <file source="E:\Xamarin_Ex\Shapp\Shapp\Shapp\bin\Debug\Shapp.dll" archivePath="Shapp.dll" lastWriteTime="30/12/2014 4:02:29 p. m." />
+  <file source="E:\Xamarin_Ex\Shapp\Shapp\Shapp\bin\Debug\Shapp.dll" archivePath="Shapp.dll" lastWriteTime="02/01/2015 3:44:13 p. m." />
   <file source="E:\Xamarin_Ex\Shapp\packages\Xamarin.Forms.1.0.6186\lib\WP80\Xamarin.Forms.Core.dll" archivePath="Xamarin.Forms.Core.dll" lastWriteTime="29/12/2014 5:30:00 p. m." />
   <file source="E:\Xamarin_Ex\Shapp\packages\Xamarin.Forms.1.0.6186\lib\WP80\Xamarin.Forms.Platform.WP8.dll" archivePath="Xamarin.Forms.Platform.WP8.dll" lastWriteTime="29/12/2014 5:30:00 p. m." />
   <file source="E:\Xamarin_Ex\Shapp\packages\Xamarin.Forms.1.0.6186\lib\WP80\Xamarin.Forms.Xaml.dll" archivePath="Xamarin.Forms.Xaml.dll" lastWriteTime="29/12/2014 5:30:00 p. m." />
